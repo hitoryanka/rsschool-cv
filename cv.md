@@ -39,3 +39,8 @@ here's my latest project: https://github.com/hitoryanka/Todo-list
   - https://www.youtube.com/watch?v=843nec-IvW0
   - https://www.codecademy.com/learn/introduction-to-javascript
   - https://www.codecademy.com/learn/react-101
+
+### English
+
+I freely utilize the language in conversation and digest provided information presented on it,
+ whether it is to be thechical documentation, TV-shows, books etc.
